@@ -1,0 +1,26 @@
+# Archivos y carpetas comunes de entornos locales
+.DS_Store
+node_modules/
+dist/
+tmp/
+*.log
+
+# Archivos de configuración del editor
+.vscode/
+.idea/
+*.code-workspace
+
+# Archivos de Shopify CLI
+.shopify/
+.env
+.env.local
+.env.*.local
+
+# Archivos temporales del sistema
+Thumbs.db
+*.swp
+*.swo
+
+# Archivos de salida de herramientas de build
+build/
+output/
